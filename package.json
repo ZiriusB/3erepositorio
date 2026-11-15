@@ -1,0 +1,20 @@
+{
+  "name": "ziriusb",
+  "version": "1.22.22",
+  "description": "",
+  "homepage": "https://github.com/ZiriusB/Firstrepo#readme",
+  "bugs": {
+    "url": "https://github.com/ZiriusB/Firstrepo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiriusB/Firstrepo.git"
+  },
+  "license": "MIT",
+  "author": "ZiriusB <prosoftwaresoluciones@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
